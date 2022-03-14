@@ -1,5 +1,5 @@
 # CIS.115_Projects
-Using the skills and knowledge gained from Intro to Java to create various programs.
+Using the skills and knowledge gained from Intro to Java, I have created programs for various purposes.
 
 **Contents:**
 
